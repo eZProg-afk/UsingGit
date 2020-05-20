@@ -13,4 +13,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     //connect firebase to the project
+    //Add Login feature
 }
